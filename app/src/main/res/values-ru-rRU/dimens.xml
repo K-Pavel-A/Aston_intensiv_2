@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="small_indent">8dp</dimen>
+    <dimen name="big_indent">16dp</dimen>
+    <dimen name="button_width">88dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="portrait_text_size">160sp</dimen>
+    <dimen name="land_text_size">120sp</dimen>
+    <dimen name="padding_regular">10dp</dimen>
+    <dimen name="line_spacing">5sp</dimen>
+</resources>
